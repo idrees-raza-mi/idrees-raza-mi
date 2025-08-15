@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maham</h1>
-<h3 align="center">💻 Passionate Full-Stack Developer <br> Lifelong Learner | Tech Enthusiast 🚀<br> Turning Ideas into Code | Building Solutions That Matter 🌟 Aspiring Software Engineer | Passion for Problem Solving & Innovation 🛠️ Crafting Code with Creativity & Purpose 📚 Learner • Developer • Dreamer</h3>
+<h3 align="center">💻 Passionate Full-Stack Developer <br> Lifelong Learner | Tech Enthusiast 🚀<br> Turning Ideas into Code | Building Solutions That Matter 🌟 Aspiring Software Engineer <br> Passion for Problem Solving & Innovation <br> 🛠️ Crafting Code with Creativity & Purpose <br> 📚 Learner • Developer • Dreamer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maham-am&label=Profile%20views&color=0e75b6&style=flat" alt="maham-am" /> </p>
 
@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **🔹 Full-Stack Web Development 🔹 Mobile App Development (React Native & Android Development) 🔹 Art & Illustration 🔹 Graphic Design & Branding**
+- 🔭 I’m currently working on **🔹 Full-Stack Web Development <br> 🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration <br>🔹 Graphic Design & Branding**
 
-- 🌱 I’m currently learning **Graphic Design & Branding, React Native, Android Development, AI Data Models , Full-Stack Web Development,**
+- 🌱 I’m currently learning **🔹Graphic Design & Branding <br> 🔹React Native & Android Development <br> 🔹AI Data Models <br>🔹Full-Stack Web Development,**
 
-- 👯 I’m looking to collaborate on **Android Development & Artificial Intelligence, Graphic Design & Branding, React Native**
+- 👯 I’m looking to collaborate on **🔹Android Development & Artificial Intelligence <br> 🔹Graphic Design & Branding <br> 🔹React Native**
 
 - 🤝 I’m looking for help with **collaboration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maham-am](https://github.com/maham-am)
 
-- 📝 I regularly write articles on [my mind 😁](my mind 😁)
+- 📝 I regularly write articles on my mind 😁
 
 - 💬 Ask me about **nothing**
 
 - 📫 How to reach me **example@gmail.com**
 
-- 📄 Know about my experiences [🔹 Full-Stack Web Development 🔹 Mobile App Development (React Native & Android Development) 🔹 Art & Illustration 🔹 Graphic Design & Branding](🔹 Full-Stack Web Development 🔹 Mobile App Development (React Native & Android Development) 🔹 Art & Illustration 🔹 Graphic Design & Branding)
+- 📄 Know about my experiences 🔹 Full-Stack Web Development <br>🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration 🔹 Graphic Design & Branding <br>🔹 Full-Stack Web Development <br> 🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration <br>🔹 Graphic Design & Branding)
 
 - ⚡ Fun fact **Passion fuels purpose, and purpose drives innovation**
 
