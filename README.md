@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **🔹 Full-Stack Web Development <br> 🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration <br>🔹 Graphic Design & Branding**
+- 🔭 I’m currently working on **<br>🔹 Full-Stack Web Development <br> 🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration <br>🔹 Graphic Design & Branding**
 
-- 🌱 I’m currently learning **🔹Graphic Design & Branding <br> 🔹React Native & Android Development <br> 🔹AI Data Models <br>🔹Full-Stack Web Development,**
+- 🌱 I’m currently learning **<br>🔹Graphic Design & Branding <br> 🔹React Native & Android Development <br> 🔹AI Data Models <br>🔹Full-Stack Web Development,**
 
-- 👯 I’m looking to collaborate on **🔹Android Development & Artificial Intelligence <br> 🔹Graphic Design & Branding <br> 🔹React Native**
+- 👯 I’m looking to collaborate on **<br>🔹Android Development & Artificial Intelligence <br> 🔹Graphic Design & Branding <br> 🔹React Native**
 
 - 🤝 I’m looking for help with **collaboration**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **example@gmail.com**
 
-- 📄 Know about my experiences 🔹 Full-Stack Web Development <br>🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration 🔹 Graphic Design & Branding <br>🔹 Full-Stack Web Development <br> 🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration <br>🔹 Graphic Design & Branding)
+- 📄 Know about my experiences <br>🔹 Full-Stack Web Development <br>🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration <br>🔹 Graphic Design & Branding <br>🔹 Full-Stack Web Development <br> 🔹 Mobile App Development (React Native & Android Development) <br>🔹 Art & Illustration <br>🔹 Graphic Design & Branding)
 
 - ⚡ Fun fact **Passion fuels purpose, and purpose drives innovation**
 
