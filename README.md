@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maham</h1>
-<h3 align="center">💻 Passionate Full-Stack Developer <br>| Lifelong Learner | Tech Enthusiast 🚀 Turning Ideas into Code | Building Solutions That Matter 🌟 Aspiring Software Engineer | Passion for Problem Solving & Innovation 🛠️ Crafting Code with Creativity & Purpose 📚 Learner • Developer • Dreamer</h3>
+<h3 align="center">💻 Passionate Full-Stack Developer <br> Lifelong Learner | Tech Enthusiast 🚀<br> Turning Ideas into Code | Building Solutions That Matter 🌟 Aspiring Software Engineer | Passion for Problem Solving & Innovation 🛠️ Crafting Code with Creativity & Purpose 📚 Learner • Developer • Dreamer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maham-am&label=Profile%20views&color=0e75b6&style=flat" alt="maham-am" /> </p>
 
