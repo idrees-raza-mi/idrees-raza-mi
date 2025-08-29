@@ -6,55 +6,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idrees-raza-mi" alt="idrees-raza-mi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/idreesraza_" target="blank"><img src="https://img.shields.io/twitter/follow/idreesraza_?logo=twitter&style=for-the-badge" alt="idreesraza_" /></a> </p>
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://medicalbase.vercel.app/" target="_blank">
-        <img src="https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/medical.png?raw=true" alt="Medical Base" width="260" />
-      </a>
-      <br/>
-      <b>🩺 Medical Base</b><br/>
-      Next.js + Firebase medical blog with clean UI.
-      <br/>
-      <a href="https://medicalbase.vercel.app/" target="_blank">Medical Base</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://idrees-raza-mi.github.io/Blog-app/" target="_blank">
-        <img src="https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Blogsite.png?raw=true" alt="Blog Site" width="260" />
-      </a>
-      <br/>
-      <b>📝 Blog Site</b><br/>
-      Simple blog with posts and responsive layout.
-      <br/>
-      <a href="https://idrees-raza-mi.github.io/Blog-app/" target="_blank">Blog Site</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://mail-app-lilac.vercel.app/" target="_blank">
-        <img src="https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true" alt="Temp Mail" width="260" />
-      </a>
-      <br/>
-      <b>📧 Temp Mail</b><br/>
-      Disposable email tool with a minimal interface.
-      <br/>
-      <a href="https://mail-app-lilac.vercel.app/" target="_blank">Temp Mail</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="#" target="_blank">
-        <img src="https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true" alt="Calculator" width="260" />
-      </a>
-      <br/>
-      <b>🧮 Calculator</b><br/>
-      Unit converter + calculator, light/dark mode.
-      <br/>
-      <i>Live Demo: coming soon</i>
-    </td>
-  </tr>
-</table>
+## 🚀 Featured Projects  
+Here are some of my Next.js & React projects with live sites and screenshots 👇  
+---
+<div align="center">
 
+| [![Medical Base](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/medical.png?raw=true)](https://medicalbase.vercel.app/) | [![Blog Site](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Blogsite.png?raw=true)](https://idrees-raza-mi.github.io/Blog-app/) |
+|---|---|
+| **🩺 Medical Base** <br/> Next.js + Firebase blog with clean UI | **📝 Blog Site** <br/> Simple blog with posts & responsive layout |
+
+| [![Temp Mail](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true)](https://mail-app-lilac.vercel.app/) | [![Calculator](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true)](#) |
+|---|---|
+| **📧 Temp Mail** <br/> Disposable email tool with minimal interface | **🧮 Calculator** <br/> Converter + calculator (dark/light) |
+
+</div>
 
 - 🔭 I’m currently working on **React Native**
 
