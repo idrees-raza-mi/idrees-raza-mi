@@ -18,7 +18,7 @@
       <b>🩺 Medical Base</b><br/>
       Next.js + Firebase medical blog with clean UI.
       <br/>
-      <a href="https://medicalbase.vercel.app/" target="_blank">Live Demo</a>
+      <a href="https://medicalbase.vercel.app/" target="_blank">Medical Base</a>
     </td>
     <td align="center" width="50%">
       <a href="https://idrees-raza-mi.github.io/Blog-app/" target="_blank">
@@ -28,7 +28,7 @@
       <b>📝 Blog Site</b><br/>
       Simple blog with posts and responsive layout.
       <br/>
-      <a href="https://idrees-raza-mi.github.io/Blog-app/" target="_blank">Live Demo</a>
+      <a href="https://idrees-raza-mi.github.io/Blog-app/" target="_blank">Blog Site</a>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
       <b>📧 Temp Mail</b><br/>
       Disposable email tool with a minimal interface.
       <br/>
-      <a href="https://mail-app-lilac.vercel.app/" target="_blank">Live Demo</a>
+      <a href="https://mail-app-lilac.vercel.app/" target="_blank">Temp Mail</a>
     </td>
     <td align="center" width="50%">
       <a href="#" target="_blank">
