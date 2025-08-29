@@ -10,17 +10,20 @@
 ## 🚀 Featured Projects  
 Here are some of my Next.js & React projects with live sites and screenshots 👇  
 ---
+## 🚀 Featured Projects  
+
 <div align="center">
 
 | [![Medical Base](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/medical.png?raw=true)](https://medicalbase.vercel.app/) | [![Blog Site](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Blogsite.png?raw=true)](https://idrees-raza-mi.github.io/Blog-app/) |
 |---|---|
-| **🩺 Medical Base** <br/> Next.js + Firebase blog with clean UI | **📝 Blog Site** <br/> Simple blog with posts & responsive layout |
+| **🩺 [Medical Base](https://medicalbase.vercel.app/)** <br/> Next.js + Firebase blog with clean UI | **📝 [Blog Site](https://idrees-raza-mi.github.io/Blog-app/)** <br/> Simple blog with posts & responsive layout |
 
 | [![Temp Mail](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true)](https://mail-app-lilac.vercel.app/) | [![Calculator](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true)](#) |
 |---|---|
-| **📧 Temp Mail** <br/> Disposable email tool with minimal interface | **🧮 Calculator** <br/> Converter + calculator (dark/light) |
+| **📧 [Temp Mail](https://mail-app-lilac.vercel.app/)** <br/> Disposable email tool with minimal interface | **🧮 Calculator** <br/> Unit converter + calculator (dark/light) |
 
 </div>
+
 **## 🚀 Featured Bio**
 - 🔭 I’m currently working on **React Native**
 
