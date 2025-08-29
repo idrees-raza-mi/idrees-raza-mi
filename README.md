@@ -6,6 +6,34 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idrees-raza-mi" alt="idrees-raza-mi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/idreesraza_" target="blank"><img src="https://img.shields.io/twitter/follow/idreesraza_?logo=twitter&style=for-the-badge" alt="idreesraza_" /></a> </p>
+# My Projects Portfolio  
+
+Here are some of my Next.js & React projects with live demos and screenshots 👇  
+
+---
+
+## 🩺 Medical Base Project  
+![Medical Project Screenshot](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/medical.png?raw=true)  
+🔗 **Live Site:** [Medical Base](https://medicalbase.vercel.app/)  
+
+---
+
+## 📝 Blog App Project  
+![Blogsite Screenshot](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Blogsite.png?raw=true)  
+🔗 **Live Site:** [Blog App](https://idrees-raza-mi.github.io/Blog-app/)  
+
+---
+
+## 📧 Temp Mail Project  
+![Temp Mail Screenshot](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true)  
+🔗 **Live Site:** [Temp Mail](https://mail-app-lilac.vercel.app/)  
+
+---
+
+## 🧮 Calculator Project  
+![Calculator Screenshot](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true)  
+🔗 **Live Site:** (Coming Soon 🚀)  
+
 
 - 🔭 I’m currently working on **React Native**
 
