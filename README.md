@@ -21,7 +21,7 @@ Here are some of my Next.js & React projects with live sites and screenshots �
 | **📧 Temp Mail** <br/> Disposable email tool with minimal interface | **🧮 Calculator** <br/> Converter + calculator (dark/light) |
 
 </div>
-
+**## 🚀 Featured Bio**
 - 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **React Native, Android Development, AI Data Models**
