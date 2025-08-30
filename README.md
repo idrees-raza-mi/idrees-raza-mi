@@ -20,7 +20,7 @@ Here are some of my Next.js & React projects with live sites and screenshots �
 
 | [![Temp Mail](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true)](https://mail-app-lilac.vercel.app/) | [![Calculator](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true)](https://calculator-up8c.vercel.app/) |
 |---|---|
-| **📧 [Temp Mail](https://mail-app-lilac.vercel.app/)** <br/> Disposable email tool with minimal interface | **🧮 [Calculator] (https://mail-app-lilac.vercel.app/)** <br/> Unit converter + calculator (dark/light) |
+| **📧 [Temp Mail](https://mail-app-lilac.vercel.app/)** <br/> Disposable email tool with minimal interface | **🧮 [Calculator](https://calculator-up8c.vercel.app/)** <br/> Unit converter + calculator (dark/light) |
 
 </div>
 
