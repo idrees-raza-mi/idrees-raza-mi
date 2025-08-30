@@ -18,7 +18,7 @@ Here are some of my Next.js & React projects with live sites and screenshots �
 |---|---|
 | **🩺 [Medical Base](https://medicalbase.vercel.app/)** <br/> Next.js + Firebase blog with clean UI | **📝 [Blog Site](https://idrees-raza-mi.github.io/Blog-app/)** <br/> Simple blog with posts & responsive layout |
 
-| [![Temp Mail](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true)](https://mail-app-lilac.vercel.app/) | [![Calculator](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true)](#) |
+| [![Temp Mail](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true)](https://mail-app-lilac.vercel.app/) | [![Calculator](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true)](https://calculator-up8c.vercel.app/) |
 |---|---|
 | **📧 [Temp Mail](https://mail-app-lilac.vercel.app/)** <br/> Disposable email tool with minimal interface | **🧮 Calculator** <br/> Unit converter + calculator (dark/light) |
 
