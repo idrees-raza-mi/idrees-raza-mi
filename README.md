@@ -1,16 +1,34 @@
 <h1 align="center">Hi 👋, I'm Idrees Raza</h1>
-<h3 align="center">A passionate Developer</h3><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/idreesraza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idreesraza_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/idrees raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idrees raza" height="30" width="40" /></a>
-<a href="https://instagram.com/idrees.raza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idrees.raza_" height="30" width="40" /></a>
+<h3 align="center">A passionate Developer</h3><h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://twitter.com/idreesraza_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/idrees raza" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/idrees.raza_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idrees-raza-mi&label=Profile%20views&color=0e75b6&style=flat" alt="idrees-raza-mi" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=idrees-raza-mi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idrees-raza-mi" alt="idrees-raza-mi" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=idrees-raza-mi&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/idreesraza_" target="blank"><img src="https://img.shields.io/twitter/follow/idreesraza_?logo=twitter&style=for-the-badge" alt="idreesraza_" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/idreesraza_" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/idreesraza_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
 
 ## 🚀 Featured Projects  
 Here are some of my Next.js & React projects with live sites and screenshots 👇  
