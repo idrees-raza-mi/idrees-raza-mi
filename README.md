@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Idrees Raza</h1>
-<h3 align="center">A Passionate Developer</h3>
+# 📄 Resume
+
+📥 [Click here to view/download my Resume](https://github.com/user-attachments/files/22083099/resume-.pdf)
+
 <h3 align="left">
   Connect with me:&nbsp;&nbsp;
 
