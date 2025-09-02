@@ -59,7 +59,7 @@ Here are some of my Next.js & React projects with live sites and screenshots �
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 📫 How to reach me [G-Mail]**idreesraza.mii@gmail.com**
+- 📫 How to reach me **idreesraza.mii@gmail.com**
 
 - 📄 Know about my experiences [check my resume](https://github.com/user-attachments/files/22087086/resume-.pdf)
 
