@@ -53,17 +53,15 @@ Here are some of my Next.js & React projects with live sites and screenshots �
 
 - 👯 I’m looking to collaborate on **Android Development & Artificial Intelligence**
 
-- 🤝 I’m looking for help with **No Body**
+- 🤝 I’m looking for help with **Senior Full Stack Developers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/idrees-raza-mi](https://github.com/idrees-raza-mi)
+- 👨‍💻 All of my projects are available at [E-Mail](https://github.com/idrees-raza-mi)
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **mentioned sources**
-
 - 📫 How to reach me **idreesraza.mii@gmail.com**
 
-- 📄 Know about my experiences [nothing](nothing)
+- 📄 Know about my experiences [check my resume](https://github.com/user-attachments/files/22087086/resume-.pdf)
 
 - ⚡ Fun fact **I Don't Think just to save energy**
 
