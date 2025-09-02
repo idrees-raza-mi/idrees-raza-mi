@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Idrees Raza</h1>
 
-#📄 Resume 📥 [Download](https://github.com/user-attachments/files/22083099/resume-.pdf)
+#📄 Resume 📥 [Download](https://github.com/user-attachments/files/22087086/resume-.pdf)
 
 
 <h3 align="left">
