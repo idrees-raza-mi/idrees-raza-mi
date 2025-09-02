@@ -55,11 +55,11 @@ Here are some of my Next.js & React projects with live sites and screenshots �
 
 - 🤝 I’m looking for help with **Senior Full Stack Developers**
 
-- 👨‍💻 All of my projects are available at [E-Mail](https://github.com/idrees-raza-mi)
+- 👨‍💻 All of my projects are available at [Idrees Raza](https://github.com/idrees-raza-mi)
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 📫 How to reach me **idreesraza.mii@gmail.com**
+- 📫 How to reach me [G-Mail](idreesraza.mii@gmail.com)
 
 - 📄 Know about my experiences [check my resume](https://github.com/user-attachments/files/22087086/resume-.pdf)
 
