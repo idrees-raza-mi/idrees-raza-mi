@@ -49,14 +49,14 @@ Here are some of my Next.js & React projects with live sites and screenshots ðŸ‘
 
 ### Main App Screens
 <img src="https://github.com/idrees-raza-mi/AcademicX/blob/main/assets/screen%20shots%20app/student%20screen1.png" width="200" alt="Students Screen">
-<img src="assets/screen%20shots%20app/course%20screen2.png" width="200" alt="Courses Screen">
-<img src="assets/screen%20shots%20app/Attendence%20screen3.png" width="200" alt="Attendance Screen">
+<img src="https://github.com/idrees-raza-mi/AcademicX/blob/main/assets/screen%20shots%20app/course%20screen2.png" width="200" alt="Courses Screen">
+<img src="https://github.com/idrees-raza-mi/AcademicX/blob/main/assets/screen%20shots%20app/Attendence%20screen3.png" width="200" alt="Attendance Screen">
 
 *Students List | Course Management | Attendance Tracking*
 
 ### Additional Features
-<img src="assets/screen%20shots%20app/Stats%20screen4.png" width="200" alt="Statistics Screen">
-<img src="assets/screen%20shots%20app/profile%20screen5.png" width="200" alt="Profile Screen">
+<img src="https://github.com/idrees-raza-mi/AcademicX/blob/main/assets/screen%20shots%20app/Stats%20screen4.png" width="200" alt="Statistics Screen">
+<img src="https://github.com/idrees-raza-mi/AcademicX/blob/main/assets/screen%20shots%20app/profile%20screen5.png" width="200" alt="Profile Screen">
 
 *Statistics Dashboard | Profile Management*
 
