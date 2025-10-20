@@ -45,7 +45,14 @@ Here are some of my Next.js & React projects with live sites and screenshots �
 | ** [Temp Mail](https://mail-app-lilac.vercel.app/)** <br/> Disposable email tool with minimal interface | ** [Calculator](https://calculator-up8c.vercel.app/)** <br/> Unit converter + calculator (dark/light) |
 
 </div>
+<p align="center">
 
+  <img src="https://github.com/idrees-raza-mi/Forecast/blob/main/assets/iamges/input1.png" alt="Light theme" width="28%"/>
+  <img src="https://github.com/idrees-raza-mi/Forecast/blob/main/assets/iamges/input2.png" alt="Dark theme" width="28%"/>
+  <img src="https://github.com/idrees-raza-mi/Forecast/blob/main/assets/iamges/input3.png" alt="Warm theme" width="28%"/>
+
+
+</p>
 **## 🚀 Featured Bio**
 - 🔭 I’m currently working on **React Native**
 
