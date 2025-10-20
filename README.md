@@ -45,6 +45,22 @@ Here are some of my Next.js & React projects with live sites and screenshots ðŸ‘
 | ** [Temp Mail](https://mail-app-lilac.vercel.app/)** <br/> Disposable email tool with minimal interface | ** [Calculator](https://calculator-up8c.vercel.app/)** <br/> Unit converter + calculator (dark/light) |
 
 </div>
+<div align="center">
+
+### Main App Screens
+<img src="assets/screen%20shots%20app/student%20screen1.png" width="200" alt="Students Screen">
+<img src="assets/screen%20shots%20app/course%20screen2.png" width="200" alt="Courses Screen">
+<img src="assets/screen%20shots%20app/Attendence%20screen3.png" width="200" alt="Attendance Screen">
+
+*Students List | Course Management | Attendance Tracking*
+
+### Additional Features
+<img src="assets/screen%20shots%20app/Stats%20screen4.png" width="200" alt="Statistics Screen">
+<img src="assets/screen%20shots%20app/profile%20screen5.png" width="200" alt="Profile Screen">
+
+*Statistics Dashboard | Profile Management*
+
+</div>
 <p align="center">
 
   <img src="https://github.com/idrees-raza-mi/Forecast/blob/main/assets/iamges/input1.png" alt="Light theme" width="28%"/>
@@ -52,6 +68,9 @@ Here are some of my Next.js & React projects with live sites and screenshots ðŸ‘
   <img src="https://github.com/idrees-raza-mi/Forecast/blob/main/assets/iamges/input3.png" alt="Warm theme" width="28%"/>
 
 
+</p>
+<p align="center">
+  <sub>Light mode</sub> &nbsp; | &nbsp; <sub>Dark mode</sub> &nbsp; | &nbsp; <sub>Warm (fire) mode</sub>
 </p>
 **## ðŸš€ Featured Bio**
 - ðŸ”­ Iâ€™m currently working on **React Native**
