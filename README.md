@@ -1,85 +1,36 @@
-<h1 align="center">Hi 👋, I'm Idrees Raza</h1>
+# Idrees Raza
 
-#📄 Resume  [Download](https://github.com/user-attachments/files/22087086/resume-.pdf)
+**Full-Stack Developer | SaaS & Business Application Development**
 
+I build software that businesses run on: Shopify apps, ERP systems, and management tools. I work on both sides of a product, the frontend people use and the backend behind it.
 
-<h3 align="left">
-  Connect with me:&nbsp;&nbsp;
+- Developer at Devjour Technologies (Dec 2025 – Present)
+- Freelance Full-Stack Developer
+- BS Computer Science, GC University Faisalabad
 
-  <a href="https://twitter.com/idreesraza_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-         alt="Twitter" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
+## Selected work
 
-  <a href="https://linkedin.com/in/idrees raza" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
+| Project | Type | What it does | Code |
+| --- | --- | --- | --- |
+| Construction ERP | ERP | Payroll, attendance, accounting, and asset tracking for Qavi Engineers (Pvt.) Limited | Private client work |
+| Subscription Billing App | Shopify app | Lets store owners bill customers on recurring subscriptions | Private (Devjour Technologies) |
+| Product Design Editor | Shopify app | Store editor embedded in Shopify, built with React, Fabric.js, Cloudinary, and Vercel | [design-editor](https://github.com/idrees-raza-mi/design-editor) |
+| Driver and Fleet App | Mobile and web | Node.js API, React Native mobile app, and admin dashboard | [DSM](https://github.com/idrees-raza-mi/DSM) |
+| AcademicX | Management system | Manages students, courses, attendance, and grades (React Native, Expo) | [AcademicX](https://github.com/idrees-raza-mi/AcademicX) |
+| Management Dashboard | BI dashboard | Turns company data into charts and reports for management | Not public |
+| Event Ticket Platform | Web app | Sells event tickets online with Stripe payments; built with Base44 | Not public |
 
-  <a href="https://instagram.com/idrees.raza_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
+## Tech stack
 
-  <a href="https://twitter.com/idreesraza_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/idreesraza_?logo=twitter&style=for-the-badge" 
-         alt="Twitter Follow" />
-  </a>
-</h3>
-  
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Fabric.js
+- **Backend:** Node.js, Python, REST APIs, Firebase, Stripe
+- **Mobile:** React Native (Expo), Android
+- **Shopify:** App development, embedded apps, subscription billing
+- **AI tools:** Claude, Base44
+- **Hosting and media:** Vercel, Cloudinary
 
+## Contact
 
-##  Featured Projects  
-Here are some of my Next.js & React projects with live sites and screenshots 👇  
-<div align="center">
-
-| [![Medical Base](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/medical.png?raw=true)](https://medicalbase.vercel.app/) | [![Blog Site](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Blogsite.png?raw=true)](https://idrees-raza-mi.github.io/Blog-app/) |
-|---|---|
-| ** [Medical Base](https://medicalbase.vercel.app/)** <br/> Next.js + Firebase blog with clean UI | ** [Blog Site](https://idrees-raza-mi.github.io/Blog-app/)** <br/> Simple blog with posts & responsive layout |
-
-| [![Temp Mail](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/Tempmail.png?raw=true)](https://mail-app-lilac.vercel.app/) | [![Calculator](https://github.com/idrees-raza-mi/idrees-raza-mi/blob/main/assets/images/calculator.png?raw=true)](https://calculator-up8c.vercel.app/) |
-|---|---|
-| ** [Temp Mail](https://mail-app-lilac.vercel.app/)** <br/> Disposable email tool with minimal interface | ** [Calculator](https://calculator-up8c.vercel.app/)** <br/> Unit converter + calculator (dark/light) |
-
-</div>
-**## 🚀 Featured Bio**
-- 🔭 I’m currently working on **React Native**
-
-- 🌱 I’m currently learning **React Native, Android Development, AI Data Models**
-
-- 👯 I’m looking to collaborate on **Android Development & Artificial Intelligence**
-
-- 🤝 I’m looking for help with **Senior Full Stack Developers**
-
-- 👨‍💻 All of my projects are available at [Idrees Raza](https://github.com/idrees-raza-mi)
-
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
-
-- 📫 How to reach me **idreesraza.mii@gmail.com**
-
-- 📄 Know about my experiences [check my resume](https://github.com/user-attachments/files/22087086/resume-.pdf)
-
-- ⚡ Fun fact **I Don't Think just to save energy**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idrees-raza-mi&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=idrees-raza-mi&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees-raza-mi" alt="Streak Stats" height="200"/>
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=idrees-raza-mi&title=Stars,Followers,Commits,Repositories,Issues,PullRequest&column=3&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+- Email: razaidrees.m@gmail.com
+- LinkedIn: [linkedin.com/in/idrees-raza-7781413bb](https://www.linkedin.com/in/idrees-raza-7781413bb)
+- Portfolio: [idreesraza.vercel.app](https://idreesraza.vercel.app)
